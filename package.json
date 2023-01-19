@@ -1,0 +1,51 @@
+{
+  "name": "mazoo-shopify",
+  "version": "1.0.0",
+  "description": "<p align=\"center\">\r   <a href=\"https://www.gatsbyjs.com\">\r     <img alt=\"Gatsby\" src=\"https://www.gatsbyjs.com/Gatsby-Monogram.svg\" width=\"60\" />\r   </a>\r </p>\r <h1 align=\"center\">\r   Gatsby Starter Shopify\r </h1>",
+  "main": "gatsby-browser.js",
+  "directories": {
+    "example": "example"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "develop": "gatsby develop",
+    "start": "gatsby develop",
+    "build": "gatsby build",
+    "serve": "gatsby serve",
+    "clean": "gatsby clean"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JunaidAlam789/computerplus-shopify.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JunaidAlam789/computerplus-shopify/issues"
+  },
+  "homepage": "https://github.com/JunaidAlam789/computerplus-shopify#readme",
+  "dependencies": {
+    "dotenv": "^16.0.3",
+    "gatsby-plugin-gatsby-cloud": "^5.4.0",
+    "@sindresorhus/slugify": "^1.1.0",
+    "debounce": "^1.2.1",
+    "gatsby": "^5.0.0",
+    "gatsby-plugin-google-analytics": "^5.0.0",
+    "gatsby-plugin-image": "^3.0.0",
+    "gatsby-plugin-sharp": "^5.0.0",
+    "gatsby-plugin-sitemap": "^6.0.0",
+    "gatsby-source-filesystem": "^5.0.0",
+    "gatsby-source-shopify": "^6.0.0",
+    "gatsby-transformer-sharp": "^5.0.0",
+    "isomorphic-fetch": "^3.0.0",
+    "lodash.debounce": "^4.0.8",
+    "lodash.isequal": "^4.5.0",
+    "query-string": "^7.0.0",
+    "react": "^18.0.0",
+    "react-dom": "^18.0.0",
+    "react-icons": "^4.1.0",
+    "shopify-buy": "^2.11.0",
+    "urql": "^2.0.2"
+  }
+}
