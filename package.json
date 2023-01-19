@@ -1,0 +1,23 @@
+{
+  "name": "mazoo-shopify",
+  "version": "1.0.0",
+  "description": "",
+  "main": "gatsby-browser.js",
+  "directories": {
+    "example": "example"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JunaidAlam789/mazoo-shopify.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JunaidAlam789/mazoo-shopify/issues"
+  },
+  "homepage": "https://github.com/JunaidAlam789/mazoo-shopify#readme"
+}
