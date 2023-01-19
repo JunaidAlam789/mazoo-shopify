@@ -45,7 +45,7 @@ export function Footer() {
         </ul>
       </nav>
       <div className={copyright}>
-        Copyright &copy; {new Date().getFullYear()} · All rights reserved
+        Copyright &copy; {new Date().getFullYear()} · All rights reserved KvobjeSoft
       </div>
     </footer>
   )
