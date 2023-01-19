@@ -26,11 +26,11 @@
   },
   "homepage": "https://github.com/JunaidAlam789/mazoo-shopify#readme",
   "dependencies": {
-    "dotenv": "^16.0.3",
-    "gatsby-plugin-gatsby-cloud": "^5.4.0",
     "@sindresorhus/slugify": "^1.1.0",
     "debounce": "^1.2.1",
+    "dotenv": "^16.0.3",
     "gatsby": "^5.0.0",
+    "gatsby-plugin-gatsby-cloud": "^5.4.0",
     "gatsby-plugin-google-analytics": "^5.0.0",
     "gatsby-plugin-image": "^3.0.0",
     "gatsby-plugin-sharp": "^5.0.0",
